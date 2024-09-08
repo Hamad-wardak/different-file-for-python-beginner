@@ -1,4 +1,4 @@
-'''Here is different function '''
+'''Here is different function for python list '''
 x = 22.4545499
 y = 3
 w = '34'
